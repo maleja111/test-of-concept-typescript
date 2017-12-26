@@ -1,0 +1,4 @@
+:host >>> .completer-dropdown{
+  overflow-y: auto;
+  max-height: 50px;
+}
